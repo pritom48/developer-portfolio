@@ -8,7 +8,7 @@ h1{
 .orang-color{
     color: orange;
 }
-section{
+.flixable-area{
     display: flex; 
     padding-bottom: 170px;
 }
@@ -32,9 +32,10 @@ section{
 }
 p{
     text-align: justify;
+    /* margin-right: 20px; */
 }
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position:right ;
 }
