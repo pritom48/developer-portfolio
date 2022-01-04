@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex; 
+    padding-bottom: 170px;
 }
 .top-bannar{
     background-image: url(images/top-banner.png);
@@ -28,4 +29,12 @@ section{
     border-radius: 5px;
     background-image: linear-gradient(orange, tomato);
     border: none;
+}
+p{
+    text-align: justify;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
